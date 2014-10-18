@@ -6,9 +6,9 @@
 //  Copyright (c) 2014年 寺内 信夫. All rights reserved.
 //
 
-#import "GameScene.h"
+#import "GameScene3.h"
 
-@implementation GameScene
+@implementation GameScene3
 
 -(void)didMoveToView:(SKView *)view {
     /* Setup your scene here */
